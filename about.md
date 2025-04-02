@@ -14,9 +14,7 @@ the steady progress of learning new technologies and improving my skills over
 time.
 
 
-When I'm not programming, I spend my time reading technical articles or
-experimenting with small coding projects to explore new ideas. I prefer a quiet
-and focused environment where I can concentrate on my tasks and deliver quality
-results. Although my hobbies may not be thrilling, I value consistency and
-reliability in both my work and personal life.
+When I'm not programming, I'm sleeping... Just kidding! I'm a programmer.
+
+ I don't sleep.
 
