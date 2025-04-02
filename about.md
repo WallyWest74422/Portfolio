@@ -6,15 +6,12 @@ permalink: /about/
 
 # About Me
 
-I am a programmer who enjoys solving problems and writing code. My work
-primarily involves creating functional and efficient software solutions, and I
-take pride in ensuring that my projects meet the requirements and run smoothly.
-While I don't consider myself particularly adventurous, I find satisfaction in
-the steady progress of learning new technologies and improving my skills over
-time.
+I have been learning Java programming for the past six years. I earned a 5 on the AP Computer Science exam in May 2024. I almost became OCA certified, in May 2025, but I failed the test. 
 
 
-When I'm not programming, I'm sleeping... Just kidding! I'm a programmer.
+When I'm not programming, I'm sleeping... 
+
+Just kidding! I'm a programmer.
 
  I don't sleep.
 

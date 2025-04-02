@@ -1,7 +1,7 @@
 #theme: jekyll-theme-minimal
 remote_theme: "jekyll/minima"
 
-title: League Student Portfolio
+title: Ashay's Portfolio'
 
 description: >
   Write an awesome description for your new site here. You can edit this line
@@ -10,8 +10,8 @@ description: >
 
 
 author:
-  name: Andy M. Azing
-  email: "student@jointheleague.org"
+  name: Ashay Moorjani
+  email: "ashaymoorjani@gmail.com"
 
 plugins:
   - jekyll-remote-theme
@@ -49,7 +49,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized 
-  skin: solarized-dark
+  skin: solarized
  
 
 

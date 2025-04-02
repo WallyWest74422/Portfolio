@@ -2,9 +2,9 @@
 layout: home
 ---
 
-# My Portfolio
+# My Baking Blog
 
-This is my portfolio. Here I will share my fociaccia recipes and my other baking tips. Follow for more!
+Welcome to Brilliant Bakes. Here I will share recipes and my other baking tips. Follow for more!
 
 # Posts
 
