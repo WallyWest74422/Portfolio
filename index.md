@@ -5,6 +5,6 @@ layout: home
 # Projects
 
 Solidworks V6 Engine
-![Engine](images/engine.png)
+![Engine](images/Engine.png)
 # Posts
 
