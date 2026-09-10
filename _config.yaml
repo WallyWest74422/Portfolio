@@ -1,5 +1,5 @@
 #theme: jekyll-theme-minimal
-remote_theme: "jekyll/maxima"
+remote_theme: "jekyll/minima"
 
 title: Ashay Moorjani
 
@@ -23,13 +23,12 @@ minima:
 
   nav_pages:
   - about.md
-  - howto.md
 
   social_links:
     - title: X
       icon: x-twitter
       url: https://x.com/LEAGUEofAmazing
-    - title:
+    - title: Github
       icon: github
       url: https://github.com/jointheleague
     - title: LinkedIn
