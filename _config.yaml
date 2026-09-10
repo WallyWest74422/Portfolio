@@ -4,7 +4,6 @@ remote_theme: "jekyll/minima"
 title: Ashay Moorjani
 
 description: >
-  Here is my website description
 
 
 author:
@@ -23,6 +22,7 @@ minima:
 
   nav_pages:
   - about.md
+  - howto.md
 
   social_links:
     - title: X
@@ -46,7 +46,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized 
-  skin: dark
+  skin: solarized-dark
 
 
 
