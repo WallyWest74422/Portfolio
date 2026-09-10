@@ -1,12 +1,10 @@
 #theme: jekyll-theme-minimal
-remote_theme: "jekyll/minima"
+remote_theme: "jekyll/maxima"
 
-title: Ashay's Portfolio'
+title: Ashay Moorjani
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Here is my website description
 
 
 author:
@@ -36,7 +34,7 @@ minima:
       url: https://github.com/jointheleague
     - title: LinkedIn
       icon: linkedin
-      url: https://www.linkedin.com/company/4849605/
+      url: www.linkedin.com/in/ashay-moorjani-62b123368
     - title: Instagram
       icon: instagram
       url: https://www.instagram.com/jointheleague/
@@ -49,7 +47,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized 
-  skin: solarized
+  skin: dark
 
 
 
