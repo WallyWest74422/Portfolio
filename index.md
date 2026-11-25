@@ -43,6 +43,7 @@ layout: home
       <li>Modeled the Formula SAE steering system in SolidWorks.</li>
       <li>Member of Highlander Racing, UC Riverside's Formula SAE team, since January 2025.</li>
       <li>The steering system was modeled in SolidWorks as part of the full chassis assembly, with the wheel carrying the Highlander Racing mark.</li>
+      <li>The wheel was modeled with textured grips and the Highlander Racing mark at its center.</li>
     </ul>
   </div>
 
@@ -62,6 +63,7 @@ layout: home
       <li>Modeled a fully assembled V6 engine in SolidWorks utilizing 30+ individual parts and complex subassemblies.</li>
       <li>Applied Design for Manufacturing (DFM) concepts and mechanical design principles under technical instruction.</li>
       <li>The render shows the full assembly, from the intake runners up top to the front pulley drive, with each system modeled as its own subassembly.</li>
+      <li>The assembly was built up part by part in SolidWorks, with every component positioned and mated in the complete engine.</li>
     </ul>
   </div>
 
