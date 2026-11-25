@@ -13,6 +13,11 @@ layout: home
     <h3>Antweight Combat Robot</h3>
     <p><em>UC Riverside — Highlander Combat Robotics (2026)</em></p>
 
+    <div class="image-gallery">
+      <img src="images/combat-robot.jpg" alt="Antweight combat robot — 3D-printed chassis and wiring" class="carousel-thumb" onclick="openModal(this.src)">
+    </div>
+    <p class="image-hint"><em>Click thumbnail to expand</em></p>
+
     <ul>
       <li>Designed and built a 1-pound 3D-printed combat robot, modeling the chassis and components in Onshape.</li>
       <li>Wired and soldered the full electronics package: LiPo batteries, brushless motors, ESCs, and RC receiver.</li>
@@ -26,6 +31,12 @@ layout: home
   <div class="project-card">
     <h3>Formula SAE Steering System</h3>
     <p><em>UC Riverside — Highlander Racing (2025)</em></p>
+
+    <div class="image-gallery">
+      <img src="images/fsae-chassis.png" alt="Formula SAE chassis and steering" class="carousel-thumb" onclick="openModal(this.src)">
+      <img src="images/steering-wheel.png" alt="Formula SAE steering wheel" class="carousel-thumb" onclick="openModal(this.src)">
+    </div>
+    <p class="image-hint"><em>Click thumbnails to expand</em></p>
 
     <ul>
       <li>Modeled the Formula SAE steering system in SolidWorks.</li>
