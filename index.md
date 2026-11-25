@@ -4,7 +4,7 @@ layout: home
 
 ## Featured Engineering Projects
 
-[Resume (PDF)]({% link resume.pdf %})
+[Resume (PDF)]({{ "/resume.pdf" | relative_url }})
 
 <div class="projects-container">
 
@@ -22,6 +22,7 @@ layout: home
       <li>Designed and built a 1-pound 3D-printed combat robot, modeling the chassis and components in Onshape.</li>
       <li>Wired and soldered the full electronics package: LiPo batteries, brushless motors, ESCs, and RC receiver.</li>
       <li>Integrated the weapon system with the drive electronics.</li>
+      <li>The photo shows the build up close: 3D-printed chassis with brass heat-set inserts, drive motors, and the wiring harness packed into the 1-lb antweight limit.</li>
     </ul>
   </div>
 
@@ -41,6 +42,7 @@ layout: home
     <ul>
       <li>Modeled the Formula SAE steering system in SolidWorks.</li>
       <li>Member of Highlander Racing, UC Riverside's Formula SAE team, since January 2025.</li>
+      <li>The steering system was modeled in SolidWorks as part of the full chassis assembly, with the wheel carrying the Highlander Racing mark.</li>
     </ul>
   </div>
 
@@ -59,6 +61,7 @@ layout: home
     <ul>
       <li>Modeled a fully assembled V6 engine in SolidWorks utilizing 30+ individual parts and complex subassemblies.</li>
       <li>Applied Design for Manufacturing (DFM) concepts and mechanical design principles under technical instruction.</li>
+      <li>The render shows the full assembly, from the intake runners up top to the front pulley drive, with each system modeled as its own subassembly.</li>
     </ul>
   </div>
 
@@ -73,6 +76,7 @@ layout: home
       <li>Utilized core Java programming principles to build a responsive automated chat tool.</li>
       <li>Accessed external API information to dynamically deliver time/date data and fun facts about pet breeds.</li>
       <li>Undertook several hours of rigorous testing, debugging, and continuous updating.</li>
+      <li>Built around event-driven programming in Java — the bot listens for commands and replies with live data from external APIs.</li>
     </ul>
   </div>
 

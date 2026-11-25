@@ -10,6 +10,7 @@ description: >
 author:
   name: Ashay Moorjani
   email: "ashaymoorjani@gmail.com"
+  school_email: "amoor088@ucr.edu"
 
 plugins:
   - jekyll-remote-theme
@@ -20,12 +21,14 @@ minima:
   - about.md
 
   social_links:
-    - title: Github
-      icon: github
-      url: https://github.com/WallyWest74422
     - title: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/ashay-moorjani-62b123368
+    - title: Github
+      icon: github
+      url: https://github.com/WallyWest74422
+
+  hide_site_feed_link: true
 
   # Minima skin selection. Available skins are:
   #   classic, dark, auto, solarized-light, solarized-dark, solarized

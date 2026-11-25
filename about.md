@@ -12,6 +12,6 @@ I'm on UC Riverside's Formula SAE team, Highlander Racing, where I modeled the s
 
 Skills: SolidWorks, AutoCAD, MATLAB/Simulink, Python, Java, FEA, GD&T, soldering, 3D printing and prototyping.
 
-[Resume (PDF)]({% link resume.pdf %})
+[Resume (PDF)]({{ "/resume.pdf" | relative_url }})
 
-Reach me at ashaymoorjani@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ashay-moorjani-62b123368).
+Reach me at ashaymoorjani@gmail.com or amoor088@ucr.edu, or on [LinkedIn](https://www.linkedin.com/in/ashay-moorjani-62b123368).
