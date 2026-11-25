@@ -4,20 +4,46 @@ layout: home
 
 ## Featured Engineering Projects
 
+[Resume (PDF)]({% link resume.pdf %})
+
 <div class="projects-container">
 
-  <!-- Project 1: SolidWorks V6 Engine -->
+  <!-- Project 1: Antweight Combat Robot -->
+  <div class="project-card">
+    <h3>Antweight Combat Robot</h3>
+    <p><em>UC Riverside — Highlander Combat Robotics (2026)</em></p>
+
+    <ul>
+      <li>Designed and built a 1-pound 3D-printed combat robot, modeling the chassis and components in Onshape.</li>
+      <li>Wired and soldered the full electronics package: LiPo batteries, brushless motors, ESCs, and RC receiver.</li>
+      <li>Integrated the weapon system with the drive electronics.</li>
+    </ul>
+  </div>
+
+  <hr>
+
+  <!-- Project 2: Formula SAE Steering System -->
+  <div class="project-card">
+    <h3>Formula SAE Steering System</h3>
+    <p><em>UC Riverside — Highlander Racing (2025)</em></p>
+
+    <ul>
+      <li>Modeled the Formula SAE steering system in SolidWorks.</li>
+      <li>Member of Highlander Racing, UC Riverside's Formula SAE team, since January 2025.</li>
+    </ul>
+  </div>
+
+  <hr>
+
+  <!-- Project 3: SolidWorks V6 Engine -->
   <div class="project-card">
     <h3>SolidWorks V6 Engine Assembly</h3>
-    <p><em>UC Riverside - Formula Society of Automotive Engineers (2026)</em></p>
-    
-    <!-- Image Carousel Placeholder using HTML details/tabs or simple gallery -->
+    <p><em>UC Riverside — Formula Society of Automotive Engineers (2026)</em></p>
+
     <div class="image-gallery">
-      <img src="images/engine-main.png" alt="V6 Engine Assembly Main View" class="carousel-thumb" onclick="openModal(this.src)">
-      <img src="images/engine-exploded.png" alt="V6 Engine Exploded View" class="carousel-thumb" onclick="openModal(this.src)">
-      <img src="images/engine-parts.png" alt="Subassemblies" class="carousel-thumb" onclick="openModal(this.src)">
+      <img src="images/Engine.png" alt="V6 Engine Assembly" class="carousel-thumb" onclick="openModal(this.src)">
     </div>
-    <p class="image-hint"><em>Click thumbnails to expand</em></p>
+    <p class="image-hint"><em>Click thumbnail to expand</em></p>
 
     <ul>
       <li>Modeled a fully assembled V6 engine in SolidWorks utilizing 30+ individual parts and complex subassemblies.</li>
@@ -27,16 +53,10 @@ layout: home
 
   <hr>
 
-  <!-- Project 2: Java Discord Bot -->
+  <!-- Project 4: Java Discord Bot -->
   <div class="project-card">
     <h3>Java Discord Bot</h3>
     <p><em>Personal Project</em></p>
-    
-    <div class="image-gallery">
-      <img src="images/bot-interface.png" alt="Discord Bot Interface" class="carousel-thumb" onclick="openModal(this.src)">
-      <img src="images/bot-code.png" alt="API Integration Code Snippet" class="carousel-thumb" onclick="openModal(this.src)">
-    </div>
-    <p class="image-hint"><em>Click thumbnails to expand</em></p>
 
     <ul>
       <li>Utilized core Java programming principles to build a responsive automated chat tool.</li>
@@ -116,5 +136,3 @@ layout: home
     document.getElementById("imageModal").style.display = "none";
   }
 </script>
-
-# Posts

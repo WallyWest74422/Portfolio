@@ -1,10 +1,11 @@
-#theme: jekyll-theme-minimal
+# Minima remote theme
 remote_theme: "jekyll/minima"
 
 title: Ashay Moorjani
 
 description: >
-
+  Mechanical Engineering student at UC Riverside — combat robotics,
+  Formula SAE, and SolidWorks design.
 
 author:
   name: Ashay Moorjani
@@ -13,41 +14,19 @@ author:
 plugins:
   - jekyll-remote-theme
 
-
-
 minima:
-
-  # If you don't define the nav pages here, the
-  # default is to use  all of the pages.
 
   nav_pages:
   - about.md
-  - howto.md
 
   social_links:
-    - title: X
-      icon: x-twitter
-      url: https://x.com/LEAGUEofAmazing
     - title: Github
       icon: github
-      url: https://github.com/jointheleague
+      url: https://github.com/WallyWest74422
     - title: LinkedIn
       icon: linkedin
-      url: www.linkedin.com/in/ashay-moorjani-62b123368
-    - title: Instagram
-      icon: instagram
-      url: https://www.instagram.com/jointheleague/
+      url: https://www.linkedin.com/in/ashay-moorjani-62b123368
 
   # Minima skin selection. Available skins are:
-  #   Available skins:
-  #     * classic            Default, light color scheme.
-  #     * dark               Dark variant of the classic skin.
-  #     * auto               Adaptive skin based on the default classic and dark skins.
-  #     * solarized-light    Light variant of solarized color scheme.
-  #     * solarized-dark     Dark variant of solarized color scheme.
-  #     * solarized 
+  #   classic, dark, auto, solarized-light, solarized-dark, solarized
   skin: solarized-dark
-
-
-
-

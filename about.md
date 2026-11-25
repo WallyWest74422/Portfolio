@@ -6,12 +6,12 @@ permalink: /about/
 
 # About Me
 
-I have been learning Java programming for the past six years. I earned a 5 on the AP Computer Science exam in May 2024. I almost became OCA certified, in May 2025, but I failed the test. 
+I'm a mechanical engineering sophomore at UC Riverside (Class of 2029, GPA 3.91) who likes building hardware that moves — combat robots, race cars, and engines modeled in SolidWorks.
 
+I'm on UC Riverside's Formula SAE team, Highlander Racing, where I modeled the steering system in SolidWorks, and on Highlander Combat Robotics, where I built a 1-pound 3D-printed antweight combat robot. I'm also an Oracle Certified Associate in Java, and I spent summer 2026 as a robotics instructor at The League of Amazing Programmers in San Diego.
 
-When I'm not programming, I'm sleeping... 
+Skills: SolidWorks, AutoCAD, MATLAB/Simulink, Python, Java, FEA, GD&T, soldering, 3D printing and prototyping.
 
-Just kidding! I'm a programmer.
+[Resume (PDF)]({% link resume.pdf %})
 
- I don't sleep.
-
+Reach me at ashaymoorjani@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ashay-moorjani-62b123368).
